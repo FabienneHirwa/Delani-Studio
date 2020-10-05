@@ -22,27 +22,18 @@ h6 {
     margin-top: 50px;
     margin-bottom: 50px;
 }
-.resize {
+.abou {
     font-size: cal(1vh + 1vw + .5vmin);
 }
-#about,
-#service,
-#pple,
-.specific,
-#contact,
-.footer p {
-    font-family: 'Merienda', cursive;
-}
+
+
 .col-md-12 {
     width: 100%;
     color: #fff;
-    font-family: 'Akronim', cursive;
     font-size: calc(1vw + 1vh + .5vmin);
     font-size: 1.1em;
 }
-h1 {
-    font-family: 'Akronim', cursive;
-}
+
 #service {
     background-image: url('image/s_image.jpg');
     color: #fff;
