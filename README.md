@@ -4,7 +4,7 @@
 
 #Designed by Fabienne Hirwa
 
-#HTML , CSS, Javascript and JQUERY, Bootstrap.
+#Technologies used: HTML , CSS, Javascript and JQUERY, Bootstrap.
 
 #Contanct:
 - Email: fabiennehirwa1@gmail.com
